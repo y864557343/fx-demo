@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b9223613-a9cf-44ca-8a87-b5dae0b0b014" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test1/src/main/java/example/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="b9223613-a9cf-44ca-8a87-b5dae0b0b014" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +18,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\development\idea-workspace\fx-demo\.idea" />
+      </set>
+    </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -96,12 +101,24 @@
       <workItem from="1575880038389" duration="7538000" />
       <workItem from="1575939520047" duration="980000" />
       <workItem from="1575941007201" duration="951000" />
-      <workItem from="1575942402788" duration="2259000" />
+      <workItem from="1575942402788" duration="2824000" />
     </task>
+    <task id="LOCAL-00001" summary="11">
+      <created>1575944912934</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575944912935</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="11" />
+    <option name="LAST_COMMIT_MESSAGE" value="11" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="30" key="#Project_Structure" timestamp="1575884876502">
