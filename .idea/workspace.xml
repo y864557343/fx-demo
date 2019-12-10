@@ -54,7 +54,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
@@ -101,7 +101,7 @@
       <workItem from="1575880038389" duration="7538000" />
       <workItem from="1575939520047" duration="980000" />
       <workItem from="1575941007201" duration="951000" />
-      <workItem from="1575942402788" duration="2824000" />
+      <workItem from="1575942402788" duration="3191000" />
     </task>
     <task id="LOCAL-00001" summary="11">
       <created>1575944912934</created>
@@ -110,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575944912935</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="11">
+      <created>1575945567154</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575945567154</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,10 +136,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="488" y="77" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1575892003867" />
-    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1575944905525">
+    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1575945564216">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1575944905525" />
+    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1575945564216" />
     <state x="463" y="127" key="FileChooserDialogImpl" timestamp="1575944716821">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -169,10 +176,14 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state width="1323" height="182" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1575893876573" />
-    <state x="186" y="14" key="SettingsEditor" timestamp="1575884957784">
+    <state x="186" y="14" key="SettingsEditor" timestamp="1575945817950">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="186" y="14" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1575884957784" />
+    <state x="186" y="14" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1575945817950" />
+    <state x="275" y="105" key="Vcs.Push.Dialog.v2" timestamp="1575945837006">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="105" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1575945837006" />
     <state x="57" y="73" key="new project wizard" timestamp="1575942982839">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
